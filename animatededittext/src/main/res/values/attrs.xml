@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimateEditText">
+        <attr name="hint" format="string"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="maxLines" format="integer"/>
+        <attr name="animationFromStart" format="boolean"/>
+        <attr name="textColor" format="color"/>
+        <attr name="android:inputType"/>
+    </declare-styleable>
+</resources>
